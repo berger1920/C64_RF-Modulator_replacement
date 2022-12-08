@@ -2,13 +2,13 @@
 
 This circuit replaces the original RF modulator of the Commodore 64.
 
-It is based on this project by ![c0pperdragon](https://github.com/c0pperdragon):
+It's based on this project by ![c0pperdragon](https://github.com/c0pperdragon):
 
 https://github.com/c0pperdragon/C64-Video-Enhancement/tree/master/analog_only
 
 The differences are:
 
-1) It is only valid for the regular motherboard version.
+1) It's only valid for the regular motherboard version (short motherboard compatibility omitted).
 2) The PCB has been made bigger to cover the whole space of the old RF modulator.
 3) Two outuput connectors have been added, one for Composite Video and one for Audio.
 
