@@ -6,4 +6,4 @@ https://github.com/c0pperdragon/C64-Video-Enhancement/tree/master/analog_only
 
 ...making the PCB bigger, to be able to add a connector for Composite Video output and another one for Audio.
 
-![C64_RF-Modulator_replacement_3D](https://github.com/berger1920/C64_RF-Modulator_replacement/blob/main/C64_RF-Modulator_replacement_3D.jpg)
+![C64_RF-Modulator_replacement_3D](./C64_RF-Modulator_replacement/blob/main/C64_RF-Modulator_replacement_3D.jpg)
