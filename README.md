@@ -1,6 +1,8 @@
 # C64 RF-Modulator replacement
 
-This circuit replaces the original RF modulator of the Commodore 64. It is based on this project:
+This circuit replaces the original RF modulator of the Commodore 64.
+
+It is based on this project by c0pperdragon:
 
 https://github.com/c0pperdragon/C64-Video-Enhancement/tree/master/analog_only
 
