@@ -15,6 +15,6 @@ The differences are:
 
 ![3D_rendering](https://user-images.githubusercontent.com/52215131/206521766-7e56fe1c-bb10-4cca-ae05-ad6f8339b374.jpg)
 
-PCB already installed:
+PCB (rev.1) already installed:
 
 ![PCB_installed](https://user-images.githubusercontent.com/52215131/206521802-1c99961c-42eb-4e18-853a-84f015021cfd.jpg)
