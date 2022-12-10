@@ -1,7 +1,7 @@
 Ref,Qty,Value
 "C1, C2, ",2,Ceramic Capacitor 10µF (SMD 1206)
-"C5, ",1,Ceramic Capacitor 100nF (SMD 0805)
 "C3, C4, C6, ",3,Ceramic Capacitor 100nF C0G 5% (SMD 0805)
+"C5, ",1,Ceramic Capacitor 100nF (SMD 0805)
 "J3, ",1,RCA Connector (KobiConn 156-009x-E)
 "J4, ",1,Audio Jack 3.5mm (CUI SJ1-3533NG)
 "R1, R5, ",2,Resistor 330 ohm (SMD 0805)
