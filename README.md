@@ -2,7 +2,7 @@
 
 This circuit replaces the original RF modulator of the Commodore 64.
 
-It's based on this project by ![c0pperdragon](https://github.com/c0pperdragon):
+It's based on this project by [c0pperdragon](https://github.com/c0pperdragon):
 
 https://github.com/c0pperdragon/C64-Video-Enhancement/tree/master/analog_only
 
@@ -16,7 +16,7 @@ Here you can find the design for its manufacture and manual assembly:
 
 https://aisler.net/p/VZLHCOPD
 
-3D rendering:
+3D rendering (PCB rev.2):
 
 ![3D_rendering](https://github.com/berger1920/C64_RF-Modulator_replacement/blob/main/3D_rendering.jpg)
 
