@@ -12,7 +12,7 @@ The differences are:
 2) The PCB has been made bigger to cover the whole space of the old RF modulator.
 3) Two outuput connectors have been added, one for Composite Video and one for Audio.
 
-Here you can find the design for its manufacture and manual assembly:
+Here you can find the PCB design for its manufacture:
 
 https://aisler.net/p/VZLHCOPD
 
