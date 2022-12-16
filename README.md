@@ -23,3 +23,4 @@ https://aisler.net/p/VZLHCOPD
 PCB (rev.1) already installed:
 
 ![PCB_installed](https://github.com/berger1920/C64_RF-Modulator_replacement/blob/main/PCB_installed.jpg)
+ 
